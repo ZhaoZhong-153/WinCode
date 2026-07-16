@@ -1,0 +1,58 @@
+{
+    "networkAdapters": [
+        {
+    "adapterName": "Bluetooth Device (Personal Area Network)",
+    "macAddress": "b8:86:87:52:32:62",
+    "serviceName": "{27474F5F-6A26-4226-8C80-CCB27609D75C}",
+    "ipAddresses": []
+},
+        {
+    "adapterName": "Realtek PCIe GbE Family Controller",
+    "macAddress": "50:7b:9d:23:f0:5d",
+    "serviceName": "{684B1803-5EB4-4082-8028-FD251A1C894A}",
+    "ipAddresses": ["192.168.207.138"]
+},
+        {
+    "adapterName": "VMware Virtual Ethernet Adapter for VMnet1",
+    "macAddress": "00:50:56:c0:00:01",
+    "serviceName": "{ADD80724-C742-4A46-BA36-2A26ADF4724A}",
+    "ipAddresses": ["192.168.216.1"]
+},
+        {
+    "adapterName": "VMware Virtual Ethernet Adapter for VMnet8",
+    "macAddress": "00:50:56:c0:00:08",
+    "serviceName": "{7BE654E1-F69F-40D2-9D92-BDB6B48EAE49}",
+    "ipAddresses": ["192.168.221.1"]
+},
+        {
+    "adapterName": "Sangfor SSL VPN CS Support System VNIC",
+    "macAddress": "00:ff:34:22:7c:6e",
+    "serviceName": "{34227C6E-E397-465D-9744-DEB6182861D8}",
+    "ipAddresses": []
+},
+        {
+    "adapterName": "Qualcomm Atheros AR956x Wireless Network Adapter",
+    "macAddress": "b8:86:87:52:32:61",
+    "serviceName": "{6433C47B-0984-4F48-8E72-55D158AB22CD}",
+    "ipAddresses": []
+},
+        {
+    "adapterName": "Microsoft Wi-Fi Direct Virtual Adapter",
+    "macAddress": "1a:86:87:52:32:61",
+    "serviceName": "{3A353E53-9558-4259-B322-AF3BC4B54BD5}",
+    "ipAddresses": []
+},
+        {
+    "adapterName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+    "macAddress": "2a:86:87:52:32:61",
+    "serviceName": "{7327AF3C-FA48-4610-A917-E27AB7B269AD}",
+    "ipAddresses": []
+},
+        {
+    "adapterName": "Microsoft Hosted Network Virtual Adapter",
+    "macAddress": "4a:86:87:52:32:61",
+    "serviceName": "{2C1E8FB5-A65B-44CF-892D-A36D77FEEC7C}",
+    "ipAddresses": []
+}
+    ]
+}
